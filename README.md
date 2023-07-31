@@ -32,7 +32,7 @@
 
 ---
 
-### Social Networks
+### Social Networks & Contact
 
 <p>
   <a href="https://www.linkedin.com/in/estivenvalencia/" target="_blank">
