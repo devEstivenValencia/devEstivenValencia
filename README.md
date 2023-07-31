@@ -32,7 +32,7 @@
 
 ---
 
-### Icons & badgets sociales
+### Social Networks
 
 <p>
   <a href="https://www.linkedin.com/in/estivenvalencia/" target="_blank">
