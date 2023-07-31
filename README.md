@@ -37,13 +37,13 @@
 ### Icons & badgets sociales
 
 <p>
-  <a href="https://www.linkedin.com/in/estivenvalencia/" target="blank">
+  <a href="https://www.linkedin.com/in/estivenvalencia/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://estivenvalencia.co/dev/portfolio" target="blank">
+  <a href="https://estivenvalencia.co/dev/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>
-  <a href="mailto:contacto@estivenvalencia.co" target="blank">
+  <a href="mailto:contacto@estivenvalencia.co" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
