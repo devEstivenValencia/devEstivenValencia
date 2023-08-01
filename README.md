@@ -1,5 +1,11 @@
 ## Hi, I'm Estiven
 
+<p>
+  I have always been passionate about the tech world and the constant questioning about how things work and how to improve them. This curiosity led me to dive into the exciting world of programming, focusing especially on Front-End development. Here I found my ideal place to connect directly with users and create personalized web experiences that meet their needs and expectations.
+</p>
+
+<a href="https://www.linkedin.com/in/estivenvalencia/#about">__More About me__<a/>
+
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/NEXT_JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="32px" />
