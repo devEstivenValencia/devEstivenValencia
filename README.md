@@ -47,11 +47,11 @@
   <a href="https://www.linkedin.com/in/estivenvalencia/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"height="32px" />
   </a>
-    <a href="https://estivenvalencia.co/dev/portfolio" target="_blank" >
+    <a href="https://dev.estivenvalencia.co/" target="_blank" >
       <img src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=devrant&logoColor=black"height="32px" />
   </a>
-  <a href="https://estivenvalencia.co/dev/portfolio" target="_blank" >
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white"height="32px" />
+  <a href="https://dev.estivenvalencia.co/curriculum" target="_blank" >
+    <img src="https://img.shields.io/badge/Curriculum-000000?style=for-the-badge&logo=dev.to&logoColor=white"height="32px" />
   </a>
 
 ### Contact
