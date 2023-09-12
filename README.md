@@ -36,7 +36,7 @@
       <img src="https://devestivenvalencia-stats.vercel.app/api/top-langs/?username=devEstivenValencia&theme=ayu-mirage&card_width=450em&layout=compact"/>
     </td>
     <td valign="top" >
-      <img src="https://devestivenvalencia-stats.vercel.app/api?username=devEstivenValencia&show_icons=true&theme=ayu-mirage&hide=stars,issues&count_private=true&card_width=450em"/>
+      <img src="https://devestivenvalencia-stats.vercel.app/api?username=devEstivenValencia&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true&card_width=450em"/>
     </td>
   </tr>
 </table>
