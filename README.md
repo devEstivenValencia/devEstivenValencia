@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td valign="top" >
-      <img src="https://devestivenvalencia-stats.vercel.app/api/top-langs/?username=devEstivenValencia&theme=ayu-mirage&card_width=450em&layout=compact"/>
+      <img src="https://devestivenvalencia-stats.vercel.app/api/top-langs/?username=devEstivenValencia&theme=ayu-mirage&card_width=450em&layout=compact&count_private=true"/>
     </td>
     <td valign="top" >
       <img src="https://devestivenvalencia-stats.vercel.app/api?username=devEstivenValencia&show_icons=true&theme=ayu-mirage&hide=stars&count_private=true&card_width=450em"/>
